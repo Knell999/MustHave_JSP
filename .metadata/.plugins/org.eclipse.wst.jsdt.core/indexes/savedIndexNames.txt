@@ -1,0 +1,10 @@
+INDEX VERSION 1.4+/Users/knell/eclipse-workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3022936674.index
+2048888680.index
+646920990.index
+1884262114.index
+1723100899.index
+3703194086.index
+72559161.index
+478797737.index
+2076510019.index
